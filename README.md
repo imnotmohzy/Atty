@@ -155,7 +155,7 @@ In <code>config/atty.json</code> inside your Minecraft instance folder.
 ## Official links
 Made by **Mohzy**. This GitHub repository is the only official source for Atty.
 
-- YouTube: [Mohzy on YouTube](PASTE_YOUR_YOUTUBE_LINK_HERE)
+- YouTube: [Mohzy on YouTube](https://www.youtube.com/@mohzymc)
 
 Atty is free. Only download it from this repository's [Releases](../../releases) page. Re-uploads on other sites are not made or endorsed by me, so be careful with them.
 
