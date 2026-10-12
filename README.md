@@ -167,8 +167,5 @@ If you like the mod, consider giving the repo a star.
 - Right Shift GUI with Enable/Disable, slot pickers, swap key and return delay
 - Auto swap, act and swap back from the Primary slot
 
-## AI disclosure
-Atty was designed and tested by Mohzy. The source code and the logo/banner artwork were created with the help of an AI assistant (Claude by Anthropic).
-
 ## License
 All Rights Reserved, Mohzy.
